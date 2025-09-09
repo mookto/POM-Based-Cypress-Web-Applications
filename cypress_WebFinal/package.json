@@ -1,0 +1,17 @@
+{
+  "name": "cypress_webfinal",
+  "version": "2.0.0",
+  "description": "cucumber Frmework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "mahedi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
